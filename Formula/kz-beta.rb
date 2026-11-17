@@ -2,9 +2,9 @@
 class KzBeta < Formula
   desc "Command line for the Kaizen Ticketing management API"
   homepage "https://github.com/kaizenticketing/homebrew-tap"
-  url "https://artifactregistry.googleapis.com/download/v1/projects/ticketing-shared/locations/europe-west2/repositories/binaries-public/files/kz-beta:59.0.0-beta.345:kz-59.0.0-beta.345-osx-arm64.tar.gz:download?alt=media&file=kz-59.0.0-beta.345-osx-arm64.tar.gz"
-  version "59.0.0-beta.345"
-  sha256 "5a663e9903abf233d06f857af68ac73af412efa239d39335288055d078f8f9e7"
+  url "https://artifactregistry.googleapis.com/download/v1/projects/ticketing-shared/locations/europe-west2/repositories/binaries-public/files/kz-beta:59.0.0-beta.346:kz-59.0.0-beta.346-osx-arm64.tar.gz:download?alt=media&file=kz-59.0.0-beta.346-osx-arm64.tar.gz"
+  version "59.0.0-beta.346"
+  sha256 "0031f3af9fd1c5aa1b0bed9d44ed895ad37cdf860a4617f84d6c9be0b0f2bc8e"
 
   depends_on arch: :arm64
   depends_on :macos
